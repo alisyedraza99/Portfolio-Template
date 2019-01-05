@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/alisyedraza99/Ali_Portfolio_SPA/static/media/PortfolioTemplate.5df32c18.png"
   },
   {
-    "revision": "071e76bd6120d369e6a6",
-    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/css/main.e0f31ae5.chunk.css"
+    "revision": "87f5bff87ffeea77da0f",
+    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/css/main.2e3e7bcf.chunk.css"
   },
   {
-    "revision": "0485c5cd8e83de69f172",
-    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/js/1.0485c5cd.chunk.js"
+    "revision": "4e771d2ffc73e8e5f9f5",
+    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/js/1.4e771d2f.chunk.js"
   },
   {
     "revision": "daedd0b8a97d0ded3a49",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/alisyedraza99/Ali_Portfolio_SPA/static/media/PortfolioSPA.7f6dd0cf.png"
   },
   {
-    "revision": "071e76bd6120d369e6a6",
-    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/js/main.071e76bd.chunk.js"
+    "revision": "87f5bff87ffeea77da0f",
+    "url": "/alisyedraza99/Ali_Portfolio_SPA/static/js/main.87f5bff8.chunk.js"
   },
   {
     "revision": "8234cab5a4f28f8c5fb4d88eece1edce",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/alisyedraza99/Ali_Portfolio_SPA/static/media/sample.8ccb4ec4.jpg"
   },
   {
-    "revision": "7df15cd323e21b44eb5a4c5e18a29a10",
+    "revision": "686e4a6f4dc374938d331778ef1122e8",
     "url": "/alisyedraza99/Ali_Portfolio_SPA/index.html"
   }
 ];
